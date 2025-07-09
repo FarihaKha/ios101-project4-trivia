@@ -122,4 +122,3 @@ class TriviaViewController: UIViewController {
     updateToNextQuestion(answer: sender.titleLabel?.text ?? "")
   }
 }
-
